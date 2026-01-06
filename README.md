@@ -1,4 +1,4 @@
-> [!WARNING] Archiving this project
+> [!WARN] Archiving this project
 > 
 > I am no longer in SM Coaching, so I’m archiving Rishav-bot.
 
